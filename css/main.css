@@ -1,6 +1,13 @@
+/*** web fonts ***/
+@import url(https://fonts.googleapis.com/css?family=Lato:400);
+
 /*** basic reset ***/
 
 body, h1, h2, ul, ol {
   margin: 0;
   padding: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
 }
