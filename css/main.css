@@ -1,0 +1,6 @@
+/*** basic reset ***/
+
+body, h1, h2, ul, ol {
+  margin: 0;
+  padding: 0;
+}
