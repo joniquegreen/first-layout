@@ -24,6 +24,10 @@ header {
   justify-content: space-between;
 }
 
+nav {
+  margin-top: .7em;
+}
+
 nav ul {
   display: flex;
   justify-content: space-between;
