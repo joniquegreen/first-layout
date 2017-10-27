@@ -40,5 +40,9 @@ li {
 }
 
 nav a {
+  background-color: tomato;
+  border-radius: 4px;
+  color: white;
+  padding: 10px;
   text-decoration: none;
 }
